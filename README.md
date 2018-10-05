@@ -1,9 +1,3 @@
-
-<h1 align="center"> 免责声明 </h1>
-
-<hr>
-
-
 # v2ray 部署在 openshift starter
 
 
